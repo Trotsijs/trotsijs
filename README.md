@@ -17,9 +17,14 @@ My name is Arthur and I'm a software developer. With a deep passion for developm
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="Typescript"> 
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js">  
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/-PhpStorm-000000?logo=phpstorm&logoColor=white" alt="PhpStorm">
-    <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code">
+    
   </div>
+  
+### IDEs I'm familiar with
+
+  <img src="https://img.shields.io/badge/-PhpStorm-000000?logo=phpstorm&logoColor=white" alt="PhpStorm">
+    <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code">
+
   
 ### Where to find me
   
