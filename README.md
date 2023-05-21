@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hey! Welcome to my GitHub page!👋
 
-With a deep passion for development, I constantly strive to expand my knowledge and embrace new technologies. I believe in the power of continuous learning, and I am always eager to acquire new skills and explore cutting-edge advancements. Complemented by my excellent communication skills and collaborative nature, I am committed to crafting innovative solutions that leave a lasting mark.
+### About me
+My name is Arthur and I'm a software developer. With a deep passion for development, I constantly strive to expand my knowledge and embrace new technologies. I believe in the power of continuous learning, and I am always eager to acquire new skills and explore cutting-edge advancements. Complemented by my excellent communication skills and collaborative nature, I am committed to crafting innovative solutions that leave a lasting mark.
 
 
 ### Toolbox
@@ -16,14 +17,16 @@ With a deep passion for development, I constantly strive to expand my knowledge 
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="Typescript"> 
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js">  
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/-PhpStorm-000000?logo=phpstorm&logoColor=white" alt="PhpStorm">
     <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code">
   </div>
   
-### Contact Me
+### Where to find me
   
   <div class="column">
+    <a href="https://github.com/Trotsijs">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+    </a>
     <a href="https://www.linkedin.com/in/akermanis/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
