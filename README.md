@@ -4,6 +4,21 @@
 My name is <strong>Arthur</strong> and I'm a software developer. With a deep passion for development, I constantly strive to expand my knowledge and embrace new technologies. I believe in the power of continuous learning, and I am always eager to acquire new skills and explore cutting-edge advancements. Complemented by my excellent communication skills and collaborative nature, I am committed to crafting innovative solutions that leave a lasting mark.
 
 
+### Latest Projects
+
+<ul>
+  <li>
+    <a href="https://github.com/Trotsijs/article-wall">News You Don't Need</a> - News Article / Blog page with features like registration, login, article creation, editing, and deletion. Users can easily create accounts, publish articles, and engage with the platform. All the user and article data is stored in a MySQL Database.
+  </li> 
+  <li>
+    <a href="https://github.com/Trotsijs/rickandmorty-api">Rick & Morty</a> - A simple web page which retrieves information from API and displays characters, episodes and locations from the show.
+  </li> 
+  <li>
+    <a href="https://github.com/Trotsijs/giphy-page">GIPHY Page</a> - A simple web page which retrieves information from API and random Gifs whith the ability to search for gifs by entering keywords.
+  </li> 
+</ul>
+
+
 ### Toolbox
 
 <div class="row">
