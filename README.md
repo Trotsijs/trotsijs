@@ -45,9 +45,9 @@ My name is <strong>Arthur</strong> and I'm a software developer. With a deep pas
 ### Where to find me
   
   <div class="column">
-    <a href="https://github.com/Trotsijs">
+<!--     <a href="https://github.com/Trotsijs">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub">
-    </a>
+    </a> -->
     <a href="https://www.linkedin.com/in/akermanis/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
