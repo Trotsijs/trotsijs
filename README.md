@@ -10,6 +10,7 @@ My name is <strong>Arthur</strong> and I'm a software developer. With a deep pas
     <li>
     <a href="https://github.com/Trotsijs/products-page">Products Page</a> - This is a simple products page with CRUD functionality and is based on the MVC pattern.
   </li> 
+    <li>
     <a href="https://github.com/Trotsijs/article-wall">News You Don't Need</a> - News Article / Blog page with features like registration, login, article creation, editing, and deletion. Users can easily create accounts, publish articles, and engage with the platform. All the user and article data is stored in a MySQL Database.
   </li> 
   <li>
