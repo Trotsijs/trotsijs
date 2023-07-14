@@ -7,7 +7,6 @@ My name is <strong>Arthur</strong> and I'm a software developer. With a deep pas
 ### Latest Projects
 
 <ul>
-  <li>
     <li>
     <a href="https://github.com/Trotsijs/products-page">Products Page</a> - This is a simple products page with CRUD functionality and is based on the MVC pattern.
   </li> 
