@@ -8,13 +8,13 @@ My name is <strong>Arthur</strong> and I'm a software developer. With a deep pas
 
 <ul>
   <li>
+    <li>
+    <a href="https://github.com/Trotsijs/products-page">Products Page</a> - This is a simple products page with CRUD functionality and is based on the MVC pattern.
+  </li> 
     <a href="https://github.com/Trotsijs/article-wall">News You Don't Need</a> - News Article / Blog page with features like registration, login, article creation, editing, and deletion. Users can easily create accounts, publish articles, and engage with the platform. All the user and article data is stored in a MySQL Database.
   </li> 
   <li>
     <a href="https://github.com/Trotsijs/rickandmorty-api">Rick & Morty</a> - A simple web page which retrieves information from API and displays characters, episodes and locations from the show.
-  </li> 
-  <li>
-    <a href="https://github.com/Trotsijs/giphy-page">GIPHY Page</a> - A simple web page which retrieves information from API and random Gifs whith the ability to search for gifs by entering keywords.
   </li> 
 </ul>
 
