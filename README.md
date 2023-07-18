@@ -8,6 +8,10 @@ My name is <strong>Arthur</strong> and I'm a software developer. With a deep pas
 
 <ul>
     <li>
+    <a href="https://github.com/Trotsijs/quack-quarters-bank">Internet Bank</a> - 
+        The project is a Laravel-based internet banking application that enables users to register, log in, and perform various banking operations. Users can open both regular and savings accounts, deposit and withdraw money, and transfer funds between accounts. The application also incorporates a two-factor authentication (2FA) system to enhance security. Additionally, the savings account feature allows users to buy and sell cryptocurrencies and view their holdings in a portfolio.
+  </li> 
+    <li>
     <a href="https://github.com/Trotsijs/products-page">Products Page</a> - This is a simple products page with CRUD functionality and is based on the MVC pattern.
   </li> 
     <li>
