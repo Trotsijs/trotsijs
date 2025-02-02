@@ -42,21 +42,6 @@ My name is <strong>Arthur</strong> and I'm a software developer. With a deep pas
 
   <img src="https://img.shields.io/badge/-PhpStorm-000000?logo=phpstorm&logoColor=white" alt="PhpStorm">
     <img src="https://img.shields.io/badge/-VS Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code">
-
-  
-### Where to find me
-  
-  <div class="column">
-<!--     <a href="https://github.com/Trotsijs">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub">
-    </a> -->
-    <a href="https://www.linkedin.com/in/akermanis/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://www.instagram.com/trotsijs/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-  </div>
   
 
 <!--
